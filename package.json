@@ -1,0 +1,22 @@
+{
+  "name": "boardgamejerk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ChrisChinchilla/boardgamejerk.git"
+  },
+  "author": "Chris Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ChrisChinchilla/boardgamejerk/issues"
+  },
+  "homepage": "https://gitlab.com/ChrisChinchilla/boardgamejerk#README",
+  "dependencies": {
+    "tracery-grammar": "^2.7.3"
+  }
+}
