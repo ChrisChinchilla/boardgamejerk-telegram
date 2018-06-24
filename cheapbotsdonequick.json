@@ -1,0 +1,7 @@
+{
+  "origin": "You are #you_are# #doing# #with_what# in #in#",
+  "you_are": ["Dress makers", "Farmers", "Villagers", "Warriors", "Investigators", "Fire fighters", "Scientists", "Explorers", "Wine makers", "Writers", "Superheroes", "Wizards", "Ponies", "Corporations", "Factions", "Cattle Herders", "Civilizations", "Soldiers", "Knights", "Politicians", "Senators", "Generals", "Clans", "Vikings", "Zombies", "Cultists", "Settlers", "Sherlock Holmes", "Meeples"],
+  "doing": ["Exploring", "Exploiting", "Growing", "Painting", "Eating", "Investigating", "Fighting", "Building", "Trading", "Delivering", "Terraforming", "Researching", "Producing", "Brewing", "Protecting", "Eating", "Surviving", "Escaping"],
+  "with_what": ["Crops", "Great Old Ones", "Disease", "Trains", "Money", "Territory", "Ships", "Sheep", "Packages", "Resources", "Spaceships", "Meeples", "Cultists", "Zombies", "A Dragon", "Detectives", "Victory Points"],
+  "in": ["Renaissance Italy", "Medieval Europe", "The Far East", "Deep Space", "Germany", "North America", "The Deepest Ocean", "Wall Street", "The 1920s", "The Far Future", "Mars", "19th Century America", "Ancient Greece", "Ancient Rome", "Ancient Egypt", "Dungeons", "Scotland", "Australia"]
+}
