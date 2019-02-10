@@ -6,7 +6,7 @@ const express = require("express"),
   app = express().use(bodyParser.json()); // creates express http server
 
 // TODO: Refactor correctly
-var tweetLexicon = require("./node_modules/bgjg/index.js");
+var tweetLexicon = require("bgjg");
 
 // Sets server port and logs message on success
 app.listen(process.env.PORT || 5000, () => console.log("webhook is listening"));

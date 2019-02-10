@@ -3,7 +3,7 @@ let Twit = require("twit");
 require("dotenv").config();
 
 // TODO: Refactor correctly
-var tweetLexicon = require("./node_modules/bgjg/index.js");
+var tweetLexicon = require("bgjg");
 
 var tweetText = tweetLexicon.generateLexicon();
 
