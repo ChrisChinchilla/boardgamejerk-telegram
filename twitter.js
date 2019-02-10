@@ -2,7 +2,6 @@
 let Twit = require("twit");
 require("dotenv").config();
 
-// TODO: Refactor correctly
 var tweetLexicon = require("bgjg");
 
 var tweetText = tweetLexicon.generateLexicon();

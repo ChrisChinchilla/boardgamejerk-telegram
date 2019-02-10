@@ -5,7 +5,6 @@ const express = require("express"),
   request = require("request"),
   app = express().use(bodyParser.json()); // creates express http server
 
-// TODO: Refactor correctly
 var tweetLexicon = require("bgjg");
 
 // Sets server port and logs message on success
