@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node messenger.js"
+    "messenger": "node messenger.js",
+    "slack": "node slack.js"
   },
   "repository": {
     "type": "git",
