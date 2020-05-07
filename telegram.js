@@ -1,13 +1,13 @@
 const Slimbot = require('slimbot');
 require("dotenv").config();
 const slimbot = new Slimbot(process.env.TELEGRAM_BOT_TOKEN);
-const http = require('http');
+const https = require('https');
 
 slimbot.on('message', message => {
   if (message.text === "game") {
     var messageText = '';
 
-    http.get('http://localhost:8000', (resp) => {
+    https.get(`https://${process.env.HOST}`, (resp) => {
       let data = '';
 
       resp.on('data', (chunk) => {
