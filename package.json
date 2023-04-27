@@ -21,6 +21,6 @@
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
     "request": "^2.88.0",
-    "slimbot": "^4.7.0"
+    "slimbot": "^4.9.0"
   }
 }
