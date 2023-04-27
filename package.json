@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ChrisChinchilla/boardgamejerk#README",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.2",
     "dotenv": "^6.0.0",
     "request": "^2.88.0",
     "slimbot": "^4.7.0"
